@@ -4,7 +4,7 @@
  * @dev Modified version of Ownable.sol to allow for adding a Platform Address.
  */
 
-pragma solidity ^0.6.10;
+pragma solidity ^0.8.0;
 
 contract Ownable is Context {
 
